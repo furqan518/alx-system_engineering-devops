@@ -1,1 +1,1 @@
-create an alias script
+shellvariabls
